@@ -14,6 +14,6 @@ En los primeros sistemas operativos no existian las GUI (Graphic User Interface)
 http://www.monografias.com/trabajos81/sistemas-operativos-windows-linux/sistemas-operativos-windows-linux.shtml  
 https://es.wikipedia.org/wiki/Historia_de_la_interfaz_gr%C3%A1fica_de_usuario  
 http://faculty.salina.k-state.edu/tim/ossg/Introduction/OShistory.html  
-https://en.wikipedia.org/wiki/Xerox_Alto
-http://www.cs.gordon.edu/courses/cs322/lectures/history.html
+https://en.wikipedia.org/wiki/Xerox_Alto  
+http://www.cs.gordon.edu/courses/cs322/lectures/history.html  
 https://en.wikipedia.org/wiki/Apple_Lisa
